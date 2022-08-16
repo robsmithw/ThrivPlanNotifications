@@ -7,3 +7,4 @@ Gemfile.lock
 /vendor/pkg/
 /vendor/src/
 /private/model/cli/gen-api/gen-api
+ThrivPlanNotifications.exe
